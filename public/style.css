@@ -1,0 +1,295 @@
+body {
+    font-family: 'campaign' !important; 
+    background-color: #F8F5F2;
+
+}
+.bg {
+    background-color: #CC6600 !important;
+}
+
+.navbar {
+    background-color: #CC6600 !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-family: 'campaign'; 
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.top-carts-btn {
+    font-family: 'campaign'; 
+    color: #fff !important;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    padding:10px 10px 10px 10px;
+}
+
+.fa-user-circle, .fa-shopping-cart {
+    font-size: 20px;
+}
+
+.carousel-cap {
+    background-color: #CC6600 !important;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'campaign'; 
+}
+
+.carousel-indicators li {
+    background-color: black;
+
+}
+
+.carousel-indicators .active{
+    background-color: #CC6600
+}
+
+.card {
+    height: auto;
+    box-shadow: 3px 3px 3px #CC6600 !important;
+}
+
+.card-text {
+    font-weight: bold !important;
+}
+
+.deals-title {
+    color: #CC6600;
+    text-align: center;
+    font-family: 'brittney';
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.btn-order {
+    background-color: #CC6600;
+    font-weight: bold;
+    font-family: 'campaign'; 
+    color: #fff;
+
+}
+
+.btn-order:hover {
+    color: #fff !important;
+}
+
+.header-container .header-top {
+    width: 100%;
+    background-color: #CC6600;
+}
+
+@font-face {
+    font-family: 'campaign'; 
+    src: url('fonts/takeaway-sans-campaign.ttf');
+}
+
+@font-face {
+    font-family: 'regular'; 
+    src: url('fonts/takeaway-sans-regular.ttf');
+}
+
+@font-face {
+    font-family: 'brittney'; 
+    src: url('fonts/Brittney.ttf');
+}
+
+.about-para {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.title{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1;
+    font-family: 'brittney';
+    font-weight: bold;
+    word-spacing: 5px;
+
+}
+
+.sub-title {
+    margin-top: 20px;
+    font-family: regular; 
+    font-size: 22px;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    font-style: normal;
+}
+
+.fa-utensils, .fa-phone{
+    color: #CC6600 !important;
+}
+
+.fa-delivery  {
+    width: 40px;
+    height: 40px;
+    color: #CC6600 !important;
+}
+
+.margin-top{
+   margin-top: 90px;
+}
+
+.margin-bottom{
+    margin-bottom: 90px;
+ }
+
+.card-discription {
+    font-style: italic;
+    color: #6C757D ;
+}
+
+.footer-heading {
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.footer{
+    color: #fff;
+    font-size: 16px !important;
+    text-align: justify;
+}
+
+.fa-home, .fa-at, .fa-phone-square-alt {
+    color: #000 !important;
+}
+
+.fa-facebook-f, .fa-whatsapp {
+    font-size: 20px !important;
+}
+
+.fa-instagram {
+    font-size: 20px !important;
+    color: purple !important;
+}
+
+.menu-block { 
+    margin-bottom: 30px; 
+}
+
+.menu-title { 
+    border-bottom: 3px solid #e0e6e3; 
+    margin-bottom: 36px; 
+    padding-bottom: 10px; 
+}
+.menu-content { 
+    border-bottom: 1px solid #e0e6e3; 
+    margin-bottom: 30px; 
+}
+
+.dish-content { 
+    margin-top: 12px; 
+    margin-bottom: 40px;
+}
+.dish-meta { 
+    display: block; 
+    width: 210px; 
+    line-height: 1.7; 
+    font-size: 20px; 
+    color: #000; 
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.dish-title { 
+    margin-bottom: 6px; 
+    font-size: 18px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    position: relative;
+    color: #CC6600;
+    width: 200px;
+}
+
+.order-icon > a { 
+    position: absolute; 
+    right: 16px; 
+    top: 0px;
+    font-size: 26px; 
+    color: #e03c23; 
+    font-weight: 500;
+}
+
+.well-block .dish-meta { 
+    width: 100%; 
+}
+.well-block .dish-price { 
+    font-size: 26px; 
+    color: #e03c23; 
+    font-weight: 500; 
+    position: inherit; 
+}
+
+.h1-responsive {
+    color: #CC6600 !important;
+}
+
+.contact-label-text {
+    color: #CC6600 !important;
+}
+
+.fa-map-marker-alt, .fa-envelope {
+    color: #CC6600 !important;
+}
+
+.send-btn {
+    background-color: #CC6600;
+    color: #fff !important;
+    font-size: 18px;
+}
+
+.address-text {
+    color: #000;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.menu-cat ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 20px 20px 0;
+
+}
+
+.menu-cat ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    font-weight: bold;
+}
+
+.menu-cat ul li a:hover {
+    text-decoration: underline !important;
+    font-weight: bold;
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .card {
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+    }
+
+}
